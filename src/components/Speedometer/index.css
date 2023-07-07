@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.bg-color {
+  background-color: #07080c;
+  height: 100vh;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+.img-prp {
+  height: 100px;
+  width: 100px;
+}
+.head {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+}
+.para {
+  color: #ffffff;
+  font-size: 10px;
+}
+.button1 {
+  border-radius: 10px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  height: 30px;
+  width: 50px;
+}
+.button2 {
+  border-radius: 10px;
+  background-color: transparent;
+  color: #ffffff;
+  height: 30px;
+  width: 50px;
+  border-color: #ffffff;
+}
